@@ -1,0 +1,11 @@
+C:\! ВУЗ\ЧМ\ChM1\ChM1\bin\Debug\ChM1.exe.config
+C:\! ВУЗ\ЧМ\ChM1\ChM1\bin\Debug\ChM1.exe
+C:\! ВУЗ\ЧМ\ChM1\ChM1\bin\Debug\ChM1.pdb
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.csprojResolveAssemblyReference.cache
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.Form1.resources
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.Properties.Resources.resources
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.csproj.GenerateResource.cache
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.csproj.CoreCompileInputs.cache
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.exe
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.pdb
+C:\! ВУЗ\ЧМ\ChM1\ChM1\obj\Debug\ChM1.Form2.resources
